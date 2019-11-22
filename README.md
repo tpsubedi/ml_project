@@ -16,6 +16,8 @@ I made two groups of data with three types of pulses in each group. The first gr
 
 I used scikit-learn [\cite] to implement the algorithms. First, I used PCA to reduce 129 dimensional data into 2 dimensions and visualized it. For the pulses in group 1, PCA shows a clear separation of the data as shown in the figure \ref. However in group 2, weak-gamma and weak-neutron are not separable from each other. Then I trained and tested four SVM classifier with linear, quadratic, cubic, and gaussian kernels. The training and testing accuracies are summarized in table \ref.
 
+![both_plot](https://user-images.githubusercontent.com/53912470/69448945-afa60480-0d27-11ea-8365-63307b5e40e9.jpg)
+
 Training/testing accuracies of SVM with different kernels (%)
 
 | Group       | Linear Kernel          | Quadratic Kernel  | Cubic Kernel | Gaussian Kernel |
