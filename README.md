@@ -32,4 +32,10 @@ Hence, I verified the finding of the original paper with some minor differences.
 
 **References**
 
-Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." Journal of machine learning research 12.Oct (2011): 2825-2830.
+[1] Zhang, Z. H., et al. "A direct method of nuclear pulse shape discrimination based on principal component analysis and support vector machine." Journal of Instrumentation 14.06 (2019): P06020.
+
+[2] Sanderson, T. S., et al. "Machine learning for digital pulse shape discrimination." 2012 IEEE Nuclear Science Symposium and Medical Imaging Conference Record (NSS/MIC). IEEE, 2012.
+
+[3] Yu, Xunzhen, et al. "Neutron–gamma discrimination based on the support vector machine method." Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment 777 (2015): 80-84.
+
+[4] Pedregosa, Fabian, et al. "Scikit-learn: Machine learning in Python." Journal of machine learning research 12.Oct (2011): 2825-2830.
