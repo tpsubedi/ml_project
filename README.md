@@ -33,7 +33,7 @@ Table 1: Training/testing accuracies of SVM with different kernels (%)
 | 1      | 100/100 | 99.99/99.96 | 99.97/99.97 | 100/99.97 |
 | 2      | 99.98/99.87      |   96.44/96.02 | 98.62/98.17 | 99.91/99.90 |
 
-**Result**
+**Result and Discussion**
 
 Both the training and testing accuracies for all types of kernels are greater than 96% which verifies the finding of the original paper. The linear kernel has highest training and testing accuracy for both groups of data. This is different than that of the original paper, in which not a single kernel gives best performance for all groups.
 Hence, I verified the finding of the original paper with some minor differences. These differences might be due to the different kind of datasets.
